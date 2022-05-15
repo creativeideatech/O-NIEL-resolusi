@@ -1,3 +1,4 @@
 Oniel rencana baru
 - Membaut project J-Car
   * Membuat PPT
+  * PEmbagian tugas
