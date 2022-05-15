@@ -1,4 +1,5 @@
 Oniel rencana baru
 - Membaut project Tugas Akhir Smester
   * Perencaan Aplikasi
+  * Membuat Nama Aplikasi
   * Membuat PPT
