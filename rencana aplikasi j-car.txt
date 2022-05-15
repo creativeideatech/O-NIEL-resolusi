@@ -3,3 +3,4 @@ Oniel rencana baru
   * Perencaan Aplikasi
   * Membuat Nama Aplikasi
   * Membuat PPT
+  * Meeting Pembuatan Aplikasi
