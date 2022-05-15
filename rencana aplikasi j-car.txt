@@ -1,3 +1,4 @@
 Oniel rencana baru
-- Membaut project J-Car
+- Membaut project Tugas Akhir Smester
+  * Perencaan Aplikasi
   * Membuat PPT
